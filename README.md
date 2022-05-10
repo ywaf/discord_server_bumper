@@ -1,4 +1,4 @@
-# discord_server_bumper
+# Information
 Automatically bumps a discord server on disboard every couple of minutes
 
 # Usage
