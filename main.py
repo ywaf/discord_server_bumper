@@ -5,7 +5,7 @@ from discum.utils.slash import SlashCommander
 
 # MAKE SURE TO DM THE BOT ANYTHING BEFORE RUNNING FOR THE FIRST TIME
 
-botid = "302050872383242240" #current bot id for disboard change if needed
+botid = "DISBOARD BOT ID HERE" # PUT DISBOARD BOT ID IN HERE
 channelid = "CHANNEL ID HERE" #current channel id to send to
 guildid = "GUILDID HERE" #current guild id to send to
 
