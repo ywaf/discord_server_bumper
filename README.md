@@ -11,5 +11,5 @@ Automatically bumps a discord server on disboard every couple of minutes
 7. Profit?
 
 # Dependencies
-* Discum - ```pip3 install --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum```
+* Discum - ```pip3 install --upgrade git+https://github.com/Merubokkusu/Discord-S.C.U.M.git#egg=discum``` - will download and compile latest (pip source is outdated)
 * time - should be already installed
